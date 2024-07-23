@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactListApp</string>
+    <string-array name="contact_options">
+        <item>Family</item>
+        <item>Friends</item>
+        <item>Colleagues</item>
+        <item>Close Friends</item>
+    </string-array>
+</resources>

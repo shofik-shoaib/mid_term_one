@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MainApp</string>
+    <string name="calculator">Calculator</string>
+    <string name="contacts">Contacts</string>
+</resources>
